@@ -1,0 +1,44 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+.formregis{
+
+    width: 400px;
+    padding: 50px;
+    background-color: rgb(101, 153, 205);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+.formregis h1{ 
+
+    font-size: 38px;
+    color: rgb(4, 49, 94)
+
+}
+.inputs{
+
+    width: 400px;
+    padding: 8px;
+    border-bottom:100px;
+    background-color: rgb(191, 229, 234);
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid rgb(93, 239, 246);
+
+}
+.enviar{
+
+    margin-left: 160px;
+    border: 1px solid rgb(93, 239, 246);
+    background-color: rgb(191, 229, 234);
+    border-radius: 8px;
+    width: 90px;
+    padding: 10px;
+    color:  rgb(5, 85, 147);
+
+}
+ 
