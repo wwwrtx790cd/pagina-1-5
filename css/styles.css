@@ -41,4 +41,25 @@
     color:  rgb(5, 85, 147);
 
 }
- 
+.enviar1{
+
+    margin-left: 0px;
+    border: 1px solid rgb(93, 239, 246);
+    background-color: rgb(0, 0, 0);
+    border-radius: 8px;
+    width: 90px;
+    padding: 10px;
+    color:  rgb(255, 255, 255);
+
+}
+.inputs1{
+
+    width: 400px;
+    padding: 8px;
+    border-bottom:100px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid rgb(0, 0, 0);
+
+}
